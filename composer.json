@@ -1,0 +1,12 @@
+{
+    "name": "dnadesign/google-map-field-group",
+    "description": "Silverstripe module allowing creation of Google Map Routes using the DirectionsRenderer inside the CMS",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Andrew Dover",
+            "email": "andy.dover@dna.co.nz"
+        }
+    ],
+    "require": {}
+}
