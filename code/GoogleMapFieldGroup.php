@@ -88,7 +88,7 @@ class GoogleMapFieldGroup extends CompositeField {
 			);
 
 			// Establish requirements
-			Requirements::javascript(ADMIN_GOOGLE_MAP_DIR . "/javascript/admin-google-map.js");
+			Requirements::javascript(GOOGLE_MAP_FIELDGROUP_DIR . "/javascript/admin-google-map.js");
 
 			if(!$this->stat('jquery_included')) {
 				Requirements::javascript(THIRDPARTY_DIR."/jquery/jquery.js");
