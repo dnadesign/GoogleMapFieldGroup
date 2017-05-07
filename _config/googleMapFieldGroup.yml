@@ -1,0 +1,7 @@
+---
+Name: googleMapFieldGroup
+---
+
+LeftAndMain:
+  extra_requirements_css:
+    - 'googleMapFieldGroup/css/gmf-admin.css'
