@@ -1,7 +1,7 @@
 {
     "name": "dnadesign/google-map-field-group",
     "description": "Silverstripe module allowing creation of Google Map Routes using the DirectionsRenderer inside the CMS",
-    "type": "composer-plugin",
+    "type": "silverstripe-module",
     "authors": [
         {
             "name": "Andrew Dover",
